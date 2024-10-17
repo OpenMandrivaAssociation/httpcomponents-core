@@ -10,7 +10,7 @@ Group:		   Development/Java
 # in the package org.apache.http.annotation which are derived
 # from JCIP-ANNOTATIONS project (CC-BY licensed)
 License:           ASL 2.0 and CC-BY
-URL:               http://hc.apache.org/
+URL:               https://hc.apache.org/
 Source0:           http://www.apache.org/dist/httpcomponents/httpcore/source/httpcomponents-core-%{version}-src.tar.gz
 BuildArch:         noarch
 
